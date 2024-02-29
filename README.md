@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-🔭 I’m currently working in Affinity Petcare, S.A. as IT Systems & Security Engineer.
+🔭 I’m currently working in Affinity Petcare, S.A. as the IT Security Engineer.
 
-🌱 I used to develop in Java and ABAP but I do not any more as I turned my professional career towards systems administration and management... 
+🌱 I used to develop in Java and ABAP but I do not any more as I turned my professional career towards systems administration, management and cyber securitization... 
 <!--
 **javidelpalp/javidelpalp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
