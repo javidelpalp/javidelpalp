@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on making myself a better (if possible at all) IT and Cyber guy...
 
-🌱 I used to develop in Java and ABAP but I do not any more as I turned my professional career towards systems administration, management and cyber securitization... I am however very keen on to learning AI, ML, LLM!
+🌱 I used to develop in Java and ABAP but I do not any more as I turned my professional career towards systems administration, management and cyber securitization... I am however very keen on learning AI, ML, LLM!
 
 👯 I’m looking to collaborate on any new challenges where I can leverage my cybersecurity expertise and technology background to lead teams, drive transformation and create meaningful business impact.
 
